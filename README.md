@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing on backend technologies<br>👯 I’m looking to collaborate with new research ideas<br>🤝 I’m looking for help developing new artifical neural network models<br>🌱 I’m currently learning new frameworks<br>💬 Ask me about tech-related stuff<br>⚡ I am hardworking and punctual
+🔭 I’m currently looking for phd candidate positions.<br>👯 I’m looking to collaborate with new research ideas<br>🤝 I’m looking for help developing new artifical neural network models<br>🌱 I’m currently learning new frameworks<br>💬 Ask me about tech-related stuff<br>⚡ I am hardworking and punctual
 
 
 ## 🌐 Socials:
